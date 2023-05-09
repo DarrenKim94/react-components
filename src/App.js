@@ -5,12 +5,12 @@ function App() {
         {
             id: 'ert',
             label : 'Can I use React?',
-            content : 'You can you anything'
+            content : 'You can use you anything'
         },
         {
             id: "sdfgsd",
             label : 'Can I use Javascript?',
-            content : 'You can you anything'
+            content : 'You can use you anything'
         },
         {
             id: 'wefre',
